@@ -1,6 +1,6 @@
 # Find word to memorise Morse code
 
-In order to memorise Morse code, let's search and learn words containing specifique vowels.
+In order to memorise Morse code, let's search and learn words containing specifique vowels.  
 See [Fabien Olicard's video](https://www.youtube.com/watch?v=F4N15Vr-D8A) (in French) that explain the method.
 
 Let's set :  
@@ -20,6 +20,6 @@ For example to find a word for B (`-..`)
 
     python3 script.py -..
 
-For a word for B (`-..`) start with B
+For a word for B (`-..`) start with letter B
 
     python3 script.py -.. b
