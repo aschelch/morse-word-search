@@ -8,7 +8,7 @@ Let's set :
 `-` as the vowel `o`  
 `.` as any other vowel `aeiu`  
 
-Now to learn B (`-..`) in Morse, just remember **Bonaparte** (B `-` n `.` p `.` rt `.`)
+Now to learn B (`-...`) in Morse, just remember **Bonaparte** (B `-` n `.` p `.` rt `.`)
 
 This script allow you to find words to help you find your own  easy-to-memorise words
 
@@ -16,10 +16,10 @@ This script allow you to find words to help you find your own  easy-to-memorise 
 
     python3 script.py morse_pattern [start_with]
 
-For example to find a word for B (`-..`)
+For example to find a word for B (`-...`)
 
     python3 script.py -..
 
-For a word for B (`-..`) start with letter B
+For a word for B (`-...`) start with letter B
 
     python3 script.py -.. b
